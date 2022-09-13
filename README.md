@@ -1,4 +1,8 @@
-![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
+<div align="left">
+    <picture align="right">
+        <img align="right" width="340em" height="340em" src="https://raw.github.com/mahdizo3181/mahdizo3181/main/tech.gif">
+    </picture>
+<br>
 
 ### Mahdi zolfaghari
 
