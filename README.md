@@ -11,9 +11,9 @@
 
 ## Skills
  #### Python :
- OPP, Decorator, Algorithm Mapping, Design Patterns, Flask, unitest, Script
+ OPP, Decorator, Design Patterns, Flask, unitest, Script
 #### Django  :
-CBV, MVT, ORM, REST, DRF,
+CBV, MVT, ORM, REST, DRF
 #### Database :
 Basic Knowledge ,ERD, MongoDB,POSTGRESQL
 #### FrontEnd : 
