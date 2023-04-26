@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 ### Mahdi zolfaghari
 [![Gmail Badge](https://img.shields.io/badge/-mahdizolfaghari3181@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mahdizolfaghari3181@gmail.com)](mailto:mahdizolfaghari3181@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-mahdi%20zolfaghari-0072b1?style=flat&logo=Linkedin&logoColor=white&link=mahdi-zolfaghari)](//https://www.linkedin.com/in/mahdi-zolfaghari-0937b3233/) 
+[![Linkedin Badge](https://img.shields.io/badge/-mahdi%20zolfaghari-0072b1?style=flat&logo=Linkedin&logoColor=white&link=mahdi-zolfaghari)](//http://www.linkedin.com/in/mahdi-zolfaghari-0937b3233/) 
 </p>
 
 ## Github status
