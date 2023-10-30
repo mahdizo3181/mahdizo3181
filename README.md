@@ -7,7 +7,6 @@
 
 ## Github status
 ![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdizo3181&show_icons=true&theme=github_dark&hide_border=true&bg_color=121212)
-[![github stats](https://github-readme-stats.vercel.app/api?username=mahdizo3181)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdizo3181&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me:
