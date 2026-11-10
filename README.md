@@ -4,6 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8)](mailto:mahdizolfaghari3181@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa)](https://www.linkedin.com/in/mahdi-zolfaghari-0937b3233/)
+[![Telegram](https://img.shields.io/badge/Telegram-1e1e2e?style=for-the-badge&logo=telegram&logoColor=74c7ec)](https://t.me/mahdiz_o)
 
 </div>
 
@@ -66,4 +67,6 @@ currently working
 ## 📫 Contact
 
 Email is the quickest way to reach me: **mahdizolfaghari3181@gmail.com**
+
+Or message me on Telegram: [@mahdiz_o](https://t.me/mahdiz_o)
 
