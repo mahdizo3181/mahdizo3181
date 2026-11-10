@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" alt="Mahdi Zolfaghari, Backend Developer" width="100%" />
 
-<img src="https://wsrv.nl/?url=github.com/mahdizo3181.png&w=240&h=240&fit=cover&mask=circle" width="120" alt="Mahdi Zolfaghari" />
+<img src="assets/typing.svg" alt="Django backends for payments and pricing, chunked uploads, integrations, clean code" width="640" />
 
 [![Email](https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8)](mailto:mahdizolfaghari3181@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa)](https://www.linkedin.com/in/mahdi-zolfaghari-0937b3233/)
@@ -10,24 +10,24 @@
 </div>
 
 ```console
-mahdi@hamedan:~$ whoami
+mahdi@dev:~$ whoami
 Mahdi Zolfaghari, backend developer (Python / Django)
 
-mahdi@hamedan:~$ cat about.txt
+mahdi@dev:~$ cat about.txt
 Building web backends since 2021. I work on payments, large file
 uploads and third-party integrations, and I try to leave code that
 the next person can read.
 
-mahdi@hamedan:~$ history | grep work
+mahdi@dev:~$ history | grep work
   2024-10 → 2026-02   Backend Developer   Kateb
   2023-06 → 2024-09   Backend Developer   Salon 20 (booking startup)
   2022-11             Backend Mentor      Maktab Sharif
 
-mahdi@hamedan:~$ cat education.log
+mahdi@dev:~$ cat education.log
   2026        MSc, Computer Engineering   Islamic Azad University of Hamadan
   2020-2024   BSc, Computer Science       Kermanshah University of Technology
 
-mahdi@hamedan:~$ echo $STATUS
+mahdi@dev:~$ echo $STATUS
 open to new backend roles and collaborations
 ```
 

@@ -26,7 +26,7 @@
   <rect x=".5" y=".5" width="999" height="289" rx="17.5" fill="none" stroke="#45475a"/>
   <path d="M0 42H1000" stroke="#313244"/>
   <circle cx="30" cy="21" r="6" fill="#f38ba8"/><circle cx="52" cy="21" r="6" fill="#fab387"/><circle cx="74" cy="21" r="6" fill="#89b4fa"/>
-  <text x="500" y="26" font-size="13" fill="#7f849c" text-anchor="middle">mahdi@hamedan: ~</text>
+  <text x="500" y="26" font-size="13" fill="#7f849c" text-anchor="middle">mahdi@dev: ~</text>
 
   <text x="860" y="235" font-size="170" font-weight="800" fill="url(#accent)" opacity=".10" text-anchor="middle">{ }</text>
 
