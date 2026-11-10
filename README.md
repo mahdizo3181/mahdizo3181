@@ -28,7 +28,7 @@ mahdi@dev:~$ cat education.log
   2020-2024   BSc, Computer Science       Kermanshah University of Technology
 
 mahdi@dev:~$ echo $STATUS
-open to new backend roles and collaborations
+currently working
 ```
 
 ## 🛠️ Stack
@@ -61,7 +61,7 @@ open to new backend roles and collaborations
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/mahdizo3181?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=1e1e2e&color=cba6f7)](https://github.com/mahdizo3181?tab=followers)
-![Open to work](https://img.shields.io/badge/Open%20to-backend%20roles-1e1e2e?style=for-the-badge&labelColor=1e1e2e&color=fab387)
+![Status](https://img.shields.io/badge/Status-currently%20working-1e1e2e?style=for-the-badge&labelColor=1e1e2e&color=fab387)
 
 </div>
 

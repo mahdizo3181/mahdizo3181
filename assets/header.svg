@@ -33,5 +33,5 @@
   <text class="l1" x="44" y="92" font-size="18"><tspan fill="#fab387" font-weight="700">$</tspan><tspan fill="#9399b2"> whoami</tspan></text>
   <text class="l2" x="42" y="160" font-size="62" font-weight="800" fill="#ffffff" letter-spacing="-2">Mahdi Zolfaghari<tspan class="cur" fill="#cba6f7">_</tspan></text>
   <text class="l3" x="44" y="203" font-size="23" fill="#cba6f7" font-weight="700">Backend Developer<tspan fill="#7f849c" font-weight="400">  /  Python · Django · REST APIs</tspan></text>
-  <text class="l4" x="44" y="252" font-size="15"><tspan fill="#fab387" font-weight="700">$</tspan><tspan fill="#7f849c"> echo $STATUS  </tspan><tspan fill="#f9e2af">open to new backend roles</tspan></text>
+  <text class="l4" x="44" y="252" font-size="15"><tspan fill="#fab387" font-weight="700">$</tspan><tspan fill="#7f849c"> echo $STATUS  </tspan><tspan fill="#f9e2af">currently working</tspan></text>
 </svg>
