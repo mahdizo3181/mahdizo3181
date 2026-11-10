@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11111b,100:cba6f7&height=170&section=header&text=Mahdi%20Zolfaghari&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Python%20%26%20Django&descAlignY=60&descSize=17" alt="Mahdi Zolfaghari" />
+<img src="assets/header.svg" alt="Mahdi Zolfaghari, Backend Developer" width="100%" />
 
 <img src="https://wsrv.nl/?url=github.com/mahdizo3181.png&w=240&h=240&fit=cover&mask=circle" width="120" alt="Mahdi Zolfaghari" />
 
@@ -56,13 +56,12 @@ open to new backend roles and collaborations
 - 🧹 **Legacy code:** refactoring for readability, performance and maintainability
 - 🧑‍🏫 **Mentoring:** code review and learning paths for new backend developers
 
-## 📊 GitHub stats
+## 📊 GitHub
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/mahdizo3181?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=1e1e2e&color=cba6f7)
-![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmahdizo3181&query=%24.public_repos&style=for-the-badge&label=Public%20repos&logo=github&logoColor=fab387&labelColor=1e1e2e&color=fab387)
-![Profile views](https://komarev.com/ghpvc/?username=mahdizo3181&style=for-the-badge&color=89b4fa&labelColor=1e1e2e&label=Profile+views)
+[![Followers](https://img.shields.io/github/followers/mahdizo3181?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=1e1e2e&color=cba6f7)](https://github.com/mahdizo3181?tab=followers)
+![Open to work](https://img.shields.io/badge/Open%20to-backend%20roles-1e1e2e?style=for-the-badge&labelColor=1e1e2e&color=fab387)
 
 </div>
 
@@ -70,6 +69,3 @@ open to new backend roles and collaborations
 
 Email is the quickest way to reach me: **mahdizolfaghari3181@gmail.com**
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,100:11111b&height=90&section=footer" alt="" />
-</div>
