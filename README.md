@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11111b,100:cba6f7&height=170&section=header&text=Mahdi%20Zolfaghari&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Python%20%26%20Django&descAlignY=60&descSize=17" alt="Mahdi Zolfaghari" />
 
+<img src="https://wsrv.nl/?url=github.com/mahdizo3181.png&w=240&h=240&fit=cover&mask=circle" width="120" alt="Mahdi Zolfaghari" />
+
 [![Email](https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8)](mailto:mahdizolfaghari3181@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa)](https://www.linkedin.com/in/mahdi-zolfaghari-0937b3233/)
 
@@ -58,8 +60,9 @@ open to new backend roles and collaborations
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahdizo3181&show_icons=true&theme=catppuccin_mocha&hide_border=true&title_color=cba6f7&icon_color=fab387" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdizo3181&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=cba6f7" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/mahdizo3181?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=1e1e2e&color=cba6f7)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmahdizo3181&query=%24.public_repos&style=for-the-badge&label=Public%20repos&logo=github&logoColor=fab387&labelColor=1e1e2e&color=fab387)
+![Profile views](https://komarev.com/ghpvc/?username=mahdizo3181&style=for-the-badge&color=89b4fa&labelColor=1e1e2e&label=Profile+views)
 
 </div>
 
