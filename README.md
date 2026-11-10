@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Mahdi Zolfaghari, Backend Developer" width="100%" />
-
-<img src="assets/typing.svg" alt="Django backends for payments and pricing, chunked uploads, integrations, clean code" width="640" />
+<img src="assets/banner.svg" alt="Mahdi Zolfaghari, Backend Developer" width="100%" />
 
 [![Email](https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8)](mailto:mahdizolfaghari3181@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa)](https://www.linkedin.com/in/mahdi-zolfaghari-0937b3233/)
