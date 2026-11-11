@@ -2,6 +2,7 @@
 
 <img src="assets/banner.svg" alt="Mahdi Zolfaghari, Backend Developer" width="100%" />
 
+[![Website](https://img.shields.io/badge/mahdi--zolfaghari.ir-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=a6e3a1)](https://mahdi-zolfaghari.ir)
 [![Email](https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8)](mailto:mahdizolfaghari3181@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa)](https://www.linkedin.com/in/mahdi-zolfaghari-0937b3233/)
 [![Telegram](https://img.shields.io/badge/Telegram-1e1e2e?style=for-the-badge&logo=telegram&logoColor=74c7ec)](https://t.me/mahdiz_o)
@@ -65,6 +66,8 @@ currently working
 </div>
 
 ## 📫 Contact
+
+My site, with an interactive terminal: [mahdi-zolfaghari.ir](https://mahdi-zolfaghari.ir)
 
 Email is the quickest way to reach me: **mahdizolfaghari3181@gmail.com**
 
